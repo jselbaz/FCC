@@ -8,3 +8,4 @@ function sumAll(arr) {
   }
   return sum 
 }
+a
